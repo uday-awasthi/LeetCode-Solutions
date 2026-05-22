@@ -32,4 +32,13 @@ to prepare for placement interviews.
 
 ---
 
-## 📁 Structure
+## 📌 Resources I Am Using
+
+- LeetCode — main practice platform
+- Striver A2Z Sheet — structured DSA roadmap
+- NeetCode.io — video explanations
+- GeeksforGeeks — concept understanding
+
+---
+
+*Updated daily ⚡*
