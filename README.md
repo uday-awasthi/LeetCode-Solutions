@@ -1,21 +1,35 @@
 # LeetCode Solutions 🧠
 
-Solving LeetCode problems daily to prepare for 
-placement interviews.
+Solving LeetCode problems daily in Java and Python
+to prepare for placement interviews.
 
-Language: Java
+*Languages:* Java | Python
 
-## Progress
-- Easy: 0/150 (updating daily)
-- Medium: 0/75
-- Total: 0 solved
+---
 
-## Topics
-- Arrays
-- Strings  
-- Linked Lists
-- Stacks and Queues
-- Trees
-- Dynamic Programming
+## 📊 Progress Tracker
 
-Problems will be added here as I solve them.
+| Difficulty | Java | Python |
+|---|---|---|
+| 🟢 Easy | 0 | 0 |
+| 🟡 Medium | 0 | 0 |
+| 🔴 Hard | 0 | 0 |
+| *Total* | *0* | *0* |
+
+---
+
+## 📂 Topics
+
+| Topic | Status | Problems Solved |
+|---|---|---|
+| Arrays | 🔄 In Progress | 0 |
+| Strings | 📅 Planned | 0 |
+| Linked Lists | 📅 Planned | 0 |
+| Stacks and Queues | 📅 Planned | 0 |
+| Trees | 📅 Planned | 0 |
+| Dynamic Programming | 📅 Planned | 0 |
+| SQL | 📅 Planned | 0 |
+
+---
+
+## 📁 Structure
