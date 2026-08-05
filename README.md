@@ -45,6 +45,7 @@ to prepare for placement interviews.
 | ------- |
 | [0125-valid-palindrome](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -61,8 +62,13 @@ to prepare for placement interviews.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0001-two-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
