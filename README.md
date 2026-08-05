@@ -47,6 +47,7 @@ to prepare for placement interviews.
 | [0151-reverse-words-in-a-string](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -63,12 +64,19 @@ to prepare for placement interviews.
 | ------- |
 | [0001-two-sum](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+## Sorting
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
