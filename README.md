@@ -57,4 +57,12 @@ to prepare for placement interviews.
 |  |
 | ------- |
 | [1667-fix-names-in-a-table](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/1667-fix-names-in-a-table) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
