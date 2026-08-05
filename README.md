@@ -51,6 +51,7 @@ to prepare for placement interviews.
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
@@ -72,6 +73,7 @@ to prepare for placement interviews.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0349-intersection-of-two-arrays](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -93,4 +95,8 @@ to prepare for placement interviews.
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
