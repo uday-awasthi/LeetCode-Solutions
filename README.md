@@ -51,6 +51,7 @@ to prepare for placement interviews.
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -64,12 +65,14 @@ to prepare for placement interviews.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0349-intersection-of-two-arrays](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Binary Search
@@ -80,6 +83,7 @@ to prepare for placement interviews.
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0349-intersection-of-two-arrays](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Queue
 |  |
