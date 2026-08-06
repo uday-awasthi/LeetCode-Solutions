@@ -36,6 +36,7 @@ to prepare for placement interviews.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Recursion
 |  |
 | ------- |
@@ -99,4 +100,8 @@ to prepare for placement interviews.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
