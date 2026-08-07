@@ -62,6 +62,7 @@ to prepare for placement interviews.
 ## Database
 |  |
 | ------- |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1667-fix-names-in-a-table](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/1667-fix-names-in-a-table) |
 ## Array
 |  |
