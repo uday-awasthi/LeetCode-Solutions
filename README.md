@@ -71,6 +71,7 @@ to prepare for placement interviews.
 | [0049-group-anagrams](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0912-sort-an-array](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -89,6 +90,7 @@ to prepare for placement interviews.
 | ------- |
 | [0049-group-anagrams](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0349-intersection-of-two-arrays](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0912-sort-an-array](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 ## Queue
 |  |
 | ------- |
@@ -105,4 +107,28 @@ to prepare for placement interviews.
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
