@@ -10,7 +10,7 @@ to prepare for placement interviews.
 | 🟡 Medium | 3 | 4 | 0 |
 | 🔴 Hard | 0 | 1 | 0 |
 | *Total* | *0* | 0 | 0 |
----
+----
 
 ## 📁 Folder Structure
 - `/Java` — LeetCode solutions in Java
