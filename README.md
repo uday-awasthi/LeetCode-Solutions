@@ -62,6 +62,7 @@ to prepare for placement interviews.
 ## Database
 |  |
 | ------- |
+| [1068-product-sales-analysis-i](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/1068-product-sales-analysis-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1517-find-users-with-valid-e-mails](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/1517-find-users-with-valid-e-mails) |
 | [1667-fix-names-in-a-table](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/1667-fix-names-in-a-table) |
