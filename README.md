@@ -62,6 +62,7 @@ to prepare for placement interviews.
 ## Database
 |  |
 | ------- |
+| [0177-nth-highest-salary](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0177-nth-highest-salary) |
 | [1068-product-sales-analysis-i](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/1068-product-sales-analysis-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1517-find-users-with-valid-e-mails](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/1517-find-users-with-valid-e-mails) |
