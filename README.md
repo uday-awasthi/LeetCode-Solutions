@@ -76,6 +76,7 @@ to prepare for placement interviews.
 | [0049-group-anagrams](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0435-non-overlapping-intervals](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0912-sort-an-array](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
@@ -95,6 +96,7 @@ to prepare for placement interviews.
 | ------- |
 | [0049-group-anagrams](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0349-intersection-of-two-arrays](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0435-non-overlapping-intervals](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0912-sort-an-array](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 ## Queue
 |  |
@@ -136,4 +138,12 @@ to prepare for placement interviews.
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
+## Greedy
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
