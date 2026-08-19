@@ -73,6 +73,7 @@ to prepare for placement interviews.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -90,6 +91,7 @@ to prepare for placement interviews.
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0704-binary-search) |
