@@ -77,6 +77,7 @@ to prepare for placement interviews.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0704-binary-search](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
@@ -91,6 +92,7 @@ to prepare for placement interviews.
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0704-binary-search) |
 ## Sorting
 |  |
 | ------- |
