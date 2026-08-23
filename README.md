@@ -36,6 +36,7 @@ to prepare for placement interviews.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0069-sqrtx](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Recursion
 |  |
@@ -95,6 +96,7 @@ to prepare for placement interviews.
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0704-binary-search) |
@@ -153,4 +155,8 @@ to prepare for placement interviews.
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
