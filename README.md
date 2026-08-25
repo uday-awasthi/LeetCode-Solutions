@@ -32,6 +32,7 @@ to prepare for placement interviews.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0876-middle-of-the-linked-list](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -50,6 +51,7 @@ to prepare for placement interviews.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0876-middle-of-the-linked-list](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 ## String
 |  |
