@@ -32,6 +32,7 @@ to prepare for placement interviews.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0237-delete-node-in-a-linked-list](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
