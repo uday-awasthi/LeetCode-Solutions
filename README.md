@@ -66,6 +66,7 @@ to prepare for placement interviews.
 | [0151-reverse-words-in-a-string](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Database
 |  |
 | ------- |
@@ -129,6 +130,7 @@ to prepare for placement interviews.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Enumeration
 |  |
 | ------- |
