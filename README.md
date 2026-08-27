@@ -70,6 +70,7 @@ to prepare for placement interviews.
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0177-nth-highest-salary) |
 | [0197-rising-temperature](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0197-rising-temperature) |
 | [1068-product-sales-analysis-i](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/1068-product-sales-analysis-i) |
