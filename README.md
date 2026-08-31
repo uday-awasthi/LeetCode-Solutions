@@ -76,6 +76,7 @@ to prepare for placement interviews.
 | [0176-second-highest-salary](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0177-nth-highest-salary) |
 | [0184-department-highest-salary](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0184-department-highest-salary) |
+| [0196-delete-duplicate-emails](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0197-rising-temperature) |
 | [1068-product-sales-analysis-i](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/1068-product-sales-analysis-i) |
 | [1251-average-selling-price](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/1251-average-selling-price) |
