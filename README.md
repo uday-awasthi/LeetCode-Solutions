@@ -79,6 +79,7 @@ to prepare for placement interviews.
 | [0196-delete-duplicate-emails](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0197-rising-temperature) |
 | [1068-product-sales-analysis-i](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/1068-product-sales-analysis-i) |
+| [1075-project-employees-i](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/1075-project-employees-i) |
 | [1251-average-selling-price](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/1251-average-selling-price) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1517-find-users-with-valid-e-mails](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/1517-find-users-with-valid-e-mails) |
