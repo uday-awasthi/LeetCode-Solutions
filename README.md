@@ -75,6 +75,7 @@ to prepare for placement interviews.
 | ------- |
 | [0176-second-highest-salary](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0177-nth-highest-salary) |
+| [0178-rank-scores](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0178-rank-scores) |
 | [0184-department-highest-salary](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0197-rising-temperature) |
