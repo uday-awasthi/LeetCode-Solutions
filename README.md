@@ -57,6 +57,7 @@ to prepare for placement interviews.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0844-backspace-string-compare](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 ## String
@@ -70,6 +71,7 @@ to prepare for placement interviews.
 | [0151-reverse-words-in-a-string](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0844-backspace-string-compare](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Database
 |  |
@@ -187,8 +189,13 @@ to prepare for placement interviews.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0844-backspace-string-compare](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
