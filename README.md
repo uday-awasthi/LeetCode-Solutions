@@ -63,6 +63,7 @@ to prepare for placement interviews.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
@@ -182,4 +183,12 @@ to prepare for placement interviews.
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0069-sqrtx) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
