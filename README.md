@@ -189,6 +189,7 @@ to prepare for placement interviews.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0844-backspace-string-compare](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 ## Bracket Sequences
 |  |
@@ -198,4 +199,16 @@ to prepare for placement interviews.
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
