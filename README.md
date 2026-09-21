@@ -82,6 +82,7 @@ to prepare for placement interviews.
 | [0184-department-highest-salary](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0197-rising-temperature) |
+| [0511-game-play-analysis-i](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0511-game-play-analysis-i) |
 | [1068-product-sales-analysis-i](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/1068-product-sales-analysis-i) |
 | [1075-project-employees-i](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/1075-project-employees-i) |
 | [1251-average-selling-price](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/1251-average-selling-price) |
