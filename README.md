@@ -110,6 +110,7 @@ to prepare for placement interviews.
 | [0875-koko-eating-bananas](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 ## Hash Table
 |  |
 | ------- |
@@ -164,6 +165,7 @@ to prepare for placement interviews.
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/1046-last-stone-weight) |
 ## Merge Sort
 |  |
 | ------- |
