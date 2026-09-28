@@ -235,6 +235,7 @@ to prepare for placement interviews.
 | [0144-binary-tree-preorder-traversal](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0547-number-of-provinces](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -258,6 +259,7 @@ to prepare for placement interviews.
 | [0104-maximum-depth-of-binary-tree](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0547-number-of-provinces](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -269,4 +271,12 @@ to prepare for placement interviews.
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/uday-awasthi/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
